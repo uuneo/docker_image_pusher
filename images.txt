@@ -2,6 +2,4 @@ pushback
 #支持私库
 neouu/pushback:latest
 #支持指定架构
---platform= linux/arm/v7 
-            linux/arm64 
-            linux/amd64
+--platform=linux/amd64
