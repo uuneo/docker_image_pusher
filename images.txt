@@ -1,4 +1,4 @@
-nginx
+pushback
 #支持私库
 neouu/pushback:latest
 #支持指定架构
